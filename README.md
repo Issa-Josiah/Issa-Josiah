@@ -28,4 +28,4 @@ I'm a full-stack developer who loves building web apps and exploring new technol
 
 ## 📫 Connect with Me
 
-[LinkedIn](linkedin.com/in/josiah-mwangi-aa11ba384)
+[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvuyT7QHXQMa89hUgG6PwdQ%3D%3D)
