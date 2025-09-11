@@ -6,7 +6,7 @@ I'm a full-stack developer who loves building web apps and exploring new technol
 
 - 🌱 I’m currently learning **Node.js** and **AI tools**
 - 💬 Ask me about **C** or **Python**
-- 📫 Reach me:g12.josiah1@gmail.com
+- 📫 Reach me:g.lectricals@gmail.com
 - ⚡ Fun fact: I can debug faster with coffee ☕️
 
 ---
