@@ -6,7 +6,7 @@ I'm a full-stack developer who loves building web apps and exploring new technol
 
 - 🌱 I’m currently learning **TypeScript** and **AI tools**
 - 💬 Ask me about **Node.js**, **Python**, or **API design**
-- 📫 Reach me: johndoe@example.com
+- 📫 Reach me:g12.josiah1@gmail.com
 - ⚡ Fun fact: I can debug faster with coffee ☕️
 
 ---
@@ -22,7 +22,7 @@ I'm a full-stack developer who loves building web apps and exploring new technol
 
 ## 📊 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa-Josiah&show_icons=true&theme=radical)
 
 ---
 
