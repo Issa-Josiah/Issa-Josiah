@@ -4,8 +4,8 @@
 
 I'm a full-stack developer who loves building web apps and exploring new technologies.
 
-- 🌱 I’m currently learning **TypeScript** and **AI tools**
-- 💬 Ask me about **Node.js**, **Python**, or **API design**
+- 🌱 I’m currently learning **Node.js** and **AI tools**
+- 💬 Ask me about **C** or **Python**
 - 📫 Reach me:g12.josiah1@gmail.com
 - ⚡ Fun fact: I can debug faster with coffee ☕️
 
@@ -28,5 +28,4 @@ I'm a full-stack developer who loves building web apps and exploring new technol
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/johndoe)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://johndoe.dev)
+[![LinkedIn](https://www.linkedin.com/feed/)
