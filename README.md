@@ -1,31 +1,29 @@
-# 👋 Hi, I'm Issa Josiah
+👋 Hi, I'm Issa Josiah
 
-## 💻 About Me
+💻 About Me
 
-I'm a full-stack developer who loves building web apps and exploring new technologies.
+Electrical and Electronics Engineer with a knack for coding in Python and C. I love working on hardware projects, especially where code meets circuits. Now exploring the world of web development to build smarter, more connected solutions. Always curious, always creating.
 
 - 🌱 I’m currently learning **Node.js** and **AI tools**
 - 💬 Ask me about **C** or **Python**
 - 📫 Reach me:g.lectricals@gmail.com
 - ⚡ Fun fact: I can debug faster with coffee ☕️
 
----
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
----
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa-Josiah&show_icons=true&theme=radical)
 
----
 
-## 📫 Connect with Me
+
+📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvuyT7QHXQMa89hUgG6PwdQ%3D%3D)
