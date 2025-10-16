@@ -12,10 +12,18 @@ Electrical and Electronics Engineer with a knack for coding in Python and C. I l
 
 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+## 🧰 Technologies & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1D3557?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E40000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 📊 GitHub Stats
