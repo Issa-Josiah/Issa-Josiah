@@ -7,7 +7,7 @@ Electrical and Electronics Engineer with a knack for coding in Python and C. I l
 - 🌱 I’m currently learning **Node.js** and **AI tools**
 - 💬 Ask me about **C** or **Python**
 - 📫 Reach me:g.lectricals@gmail.com
-- ⚡ Fun fact: I can debug faster with coffee ☕️
+- ⚡ Personal fact: The world is like art and i am the artist
 
 
 🛠️ Technologies & Tools
