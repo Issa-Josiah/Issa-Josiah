@@ -29,7 +29,7 @@ Electrical and Electronics Engineer with a knack for coding in Python and C. I l
 📊 GitHub Stats
 
 ![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa-Josiah&show_icons=true&theme=radical)
-![[Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=username=Issa-Josiah&show_icons=true&theme=tokyonight)
+![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=username=Issa-Josiah&show_icons=true&theme=tokyonight)
 
 
 
