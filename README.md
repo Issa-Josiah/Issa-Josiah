@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Issa Josiah
+# 👋 Hi, I'm Josiah Mwangi
 
 🚀 **Electrical & Electronics Engineer | Software Developer | Hardware Enthusiast**
 
