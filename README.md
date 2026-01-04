@@ -6,7 +6,7 @@ Electrical and Electronics Engineer with a knack for coding in Python and C. I l
 
 - 🌱 I’m currently learning **Node.js** and **AI tools**
 - 💬 Ask me about **C** or **Python**
-- 📫 Reach me:https://mailto:g.lectricals@gmail.com
+- 📫 Reach me:   <a href="mailto:g12.josiah1@gmail.com" target="_blank"">GMAIL</a>
 - contact me : https://githua.pythonanywhere.com/contact/
 - ⚡ Personal fact: The world is like art and i am the artist
 
