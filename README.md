@@ -63,6 +63,9 @@ I’m an Electrical and Electronics Engineer with a strong passion for **coding,
 
 ![Issa Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa-Josiah&show_icons=true&theme=tokyonight)
 
+![Issa Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa-Josiah&show_icons=true&theme=tokyonight&count_private=true)
+
+
 ---
 
 ## 📫 Contact Me
