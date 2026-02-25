@@ -21,6 +21,9 @@ I’m an Electrical and Electronics Engineer with a strong passion for **coding,
 ## 🌱 Currently Learning
 
 - **Node.js**
+- **React**
+- **Java**
+- **Springboot**
 - **AI Tools & Automation**
 - **Advanced Web Technologies**
 
