@@ -73,7 +73,7 @@ I’m an Electrical and Electronics Engineer with a strong passion for **coding,
 
 - 📧 Email: **g.lectricals@gmail.com**
 - 🌍 Portfolio / Contact Page:  
-  👉 [https://josiahmwangi.netlify.app/#/contact](https://josiahmwangi.netlify.app/#/contact)
+ - 👉 https://josiahmwangi.netlify.app/#/contact
 
   or scan the qr code
   
